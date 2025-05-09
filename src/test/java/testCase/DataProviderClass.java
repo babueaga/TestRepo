@@ -13,7 +13,7 @@ public class DataProviderClass {
 		
 	}
 	@Test(priority=0)
-	public void definition() {
+	public void definition2() {
 		System.out.println("The username is");
 		
 	}
