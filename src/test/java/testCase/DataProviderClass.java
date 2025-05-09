@@ -13,13 +13,14 @@ public class DataProviderClass {
 		
 	}
 	@Test(priority=0)
-	public void def() {
+	public void definition() {
 		System.out.println("The username is");
 		
 	}
 	
 	@Test(priority=1)
 	public void abc() {
+		
 		System.out.println("The password is");
 
 	}
