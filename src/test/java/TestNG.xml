@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="methods" name="Suite">
+  
+<test name="my test">
+<parameter name="test" value="test1"/>
+<classes>
+	<class name = "testPackage.NewTest">
+	<methods>
+		<include name="Two"/>
+	</methods>
+</class>
+</classes>
+
+</test>
+</suite> <!-- Suite -->

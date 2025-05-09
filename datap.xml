@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Data provider check">
+  <test name="Verification of testng class">
+      <classes>
+	   	  <class name="testCase.DataProviderClass"/>
+	   	  <class name="testCase.WebTableClass"/>
+      </classes>
+  </test> 
+</suite> 
