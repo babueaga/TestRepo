@@ -24,4 +24,10 @@ public class DataProviderClass {
 		System.out.println("The password is");
 
 	}
+	@Test(priority=1)
+	public void efg() {
+		
+		System.out.println("The password is");
+
+	}
 }
